@@ -50,7 +50,7 @@ export default function Studentdata() {
     return (
         <div className="container py-5 bg-light">
             <div className="text-center mb-5">
-                <h2 className="fw-bold text-primary">🎓 Student Management System</h2>
+                <h2 className="fw-bold text-primary">🎓 Student Management System by Vaibhav</h2>
                 <p className="text-muted">Add, view, and delete student records</p>
             </div>
 
